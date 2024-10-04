@@ -23,6 +23,4 @@ Output: For each word compared, the system outputs a sequence indicating the rel
 providing information about correct letters, misplaced letters, and missing letters.
 
 
-The project uses a binary search tree (BST) to efficiently manage and search the set of admissible words. 
-Linked lists store constraints, such as required or prohibited letter positions and letter occurrences, which are checked against each word. 
-The use of these data structures ensures fast word insertion, searching, and filtering, optimizing both time and memory usage.
+
