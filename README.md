@@ -1,4 +1,4 @@
-#WordChecker
+# WordChecker
 
 The WordChecker project implements a system that checks the correspondence between the letters of two words of the same length. Using a binary search tree (BST) for efficient word management and linked lists for storing constraints, the program filters words based on specific conditions, such as required or prohibited letter positions and letter occurrences.
 
