@@ -17,7 +17,7 @@ The system then processes multiple "games", each marked by the command +nuova_pa
 1. A reference word of length k is provided.
 2. A number n indicates the maximum number of words to compare with the reference word.
 3. The words are compared, and specific results are returned based on the matches.
-Commands: Additional commands, such as +inserisci_inizio and +inserisci_fine, allow for the insertion of new words into the allowed word set.
+4. Commands: Additional commands, such as +inserisci_inizio and +inserisci_fine, allow for the insertion of new words into the allowed word set.
 
 Output: For each word compared, the system outputs a sequence indicating the relationship between the reference word and the compared word, 
 providing information about correct letters, misplaced letters, and missing letters.
