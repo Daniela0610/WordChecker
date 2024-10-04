@@ -14,9 +14,9 @@ It works with words consisting of lowercase and uppercase alphabetic characters 
 Game Structure: The system reads a set of words, each of a fixed length k, which forms the set of allowed words. 
 The system then processes multiple "games", each marked by the command +nuova_partita, where:
 
-A reference word of length k is provided.
-A number n indicates the maximum number of words to compare with the reference word.
-The words are compared, and specific results are returned based on the matches.
+1. A reference word of length k is provided.
+2. A number n indicates the maximum number of words to compare with the reference word.
+3. The words are compared, and specific results are returned based on the matches.
 Commands: Additional commands, such as +inserisci_inizio and +inserisci_fine, allow for the insertion of new words into the allowed word set.
 
 Output: For each word compared, the system outputs a sequence indicating the relationship between the reference word and the compared word, 
